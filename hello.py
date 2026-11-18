@@ -10,4 +10,6 @@ comments
 # your are printing the hello word text 
 print("Hello World !,", name)
 print("Hello World !," +name)
+print("Hello World !," , end="")
+print(name)
 
